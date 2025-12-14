@@ -1,7 +1,9 @@
-streamlit
-torch
-transformers
-datasets
+streamlit==1.52.1
+torch==2.1.2
+transformers==4.36.2
+datasets==2.14.4
 sentencepiece
+tokenizers
 nltk
 pandas
+safetensors
