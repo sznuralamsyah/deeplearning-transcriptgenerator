@@ -1,9 +1,8 @@
 streamlit==1.52.1
-torch==2.1.2
+torch==2.1.0
 transformers==4.36.2
-datasets==2.14.4
+tokenizers==0.15.2
 sentencepiece
-tokenizers
-nltk
+numpy
 pandas
 safetensors
